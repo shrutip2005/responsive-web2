@@ -1,4 +1,4 @@
-# Project 2
+# Web Design 2
 
 Root Directory:
 
